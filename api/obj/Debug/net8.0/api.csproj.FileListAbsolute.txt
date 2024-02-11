@@ -272,3 +272,4 @@ D:\StockAPI\api\obj\Debug\net8.0\refint\api.dll
 D:\StockAPI\api\obj\Debug\net8.0\api.pdb
 D:\StockAPI\api\obj\Debug\net8.0\api.genruntimeconfig.cache
 D:\StockAPI\api\obj\Debug\net8.0\ref\api.dll
+D:\StockAPI\api\obj\Debug\net8.0\api.sourcelink.json
