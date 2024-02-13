@@ -273,3 +273,7 @@ D:\StockAPI\api\obj\Debug\net8.0\api.pdb
 D:\StockAPI\api\obj\Debug\net8.0\api.genruntimeconfig.cache
 D:\StockAPI\api\obj\Debug\net8.0\ref\api.dll
 D:\StockAPI\api\obj\Debug\net8.0\api.sourcelink.json
+D:\StockAPI\api\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\StockAPI\api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\StockAPI\api\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\StockAPI\api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
